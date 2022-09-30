@@ -1,0 +1,4 @@
+Ejercicio 1 (50 puntos): 
+Cree una página web que contenga un formulario donde se registren noticias, los campos que debe tener son: título, cuerpo de la noticia, categoria, imagen y autor de la noticia. 
+
+Procesar los datos para validar que los campos enviados no estén vacíos, validar que solo se envíe un archivo de tipo imágen y de máximo 1MB, almacenar los datos en una base de datos llamada multimedia_prueba_1 (Debe adjuntar la base de datos a los archivos que se entregarán).
