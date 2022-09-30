@@ -1,0 +1,2 @@
+Ejercicio 3 (20 puntos):
+Cree un formulario que envíe los datos necesarios para calcular una función de segundo grado. En el caso de que no se envíen valores el programa debe poder calcularla de igual forma usando valores por defecto. Imprima los resultados por pantalla.
