@@ -1,6 +1,6 @@
 <?php
 
-//Me tira error en los archivos de la carpeta donde se genera el QR, pero creo que en el siguiente codigo, donde creo el QR, esta bueno.
+
 
 $nombre = $_GET["nombre"];
 $apellido = $_GET["apellido"];
