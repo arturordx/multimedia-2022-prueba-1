@@ -1,2 +1,0 @@
-Ejercicio 2 (20 puntos):
-Cree una página web con un formulario que reciba nombre y apellido y con esos datos generar un QR.Muestre en una página web los datos enviados y la imagen del qr.
