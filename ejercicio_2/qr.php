@@ -9,6 +9,11 @@ echo "<br>";
 echo "Nombre: ".$nombre;
 echo "<br>";
 echo "Apellido: ". $apellido;
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
 
 require ("phpqrcode/qrlib.php");
 

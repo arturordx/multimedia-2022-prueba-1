@@ -63,7 +63,9 @@
 
 <body>
 <div id="header"></div>
-<div id="menu"></div>
+<div id="menu">
+<?php include "menu.php"; ?>
+</div>
 <div id="main">
     <div id="recuadro">
         <?php
